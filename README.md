@@ -105,3 +105,5 @@ This project is **open-source** under the [MIT License](LICENSE).
 If you find this project helpful, consider giving it a ⭐ on GitHub!  
 
 🔗 **GitHub Repository**: [Constitution Study Chatbot](https://github.com/Abodzaa/Constitution-Study-Chatbot)  
+
+![image](https://github.com/user-attachments/assets/aeeef95b-86fa-47c2-96b3-64f2d8a62124)
